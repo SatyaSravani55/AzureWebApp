@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'secondpart'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AB4BB1965BAC42519E82A218AECD4F08 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3DF433E187B54425BDB368D3EC171EA8 }}
